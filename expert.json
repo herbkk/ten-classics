@@ -1,0 +1,813 @@
+[
+  {
+    "id": "ten-classics-expert-threshold-2x20",
+    "name": "Threshold 2x20",
+    "description": "The cornerstone session: two twenty-minute blocks at threshold, four minutes easy between. The target moves between 95 and 102 percent so you can ride it, not fight it.",
+    "tags": [
+      "Expert",
+      "Threshold"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 97,
+        "intervalType": "CONSTANT",
+        "powerMinPercentFTP": 95,
+        "powerMaxPercentFTP": 102
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 97,
+        "intervalType": "CONSTANT",
+        "powerMinPercentFTP": 95,
+        "powerMaxPercentFTP": 102
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-over-under-3x12",
+    "name": "Over-Under 3x12",
+    "description": "Three twelve-minute blocks of two minutes at 95 percent and one at 108. Sustained lactate work for riders preparing for hilly races.",
+    "tags": [
+      "Expert",
+      "Threshold"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-criss-cross-3x12",
+    "name": "Criss-Cross 3x12",
+    "description": "Three twelve-minute blocks swinging between 88 and 100 percent every two minutes. Teaches you to settle back in after a surge without easing off.",
+    "tags": [
+      "Expert",
+      "Threshold"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-vo2max-5x5",
+    "name": "VO2max 5x5",
+    "description": "Five five-minute efforts at 110 percent with four minutes recovery. Long VO2max blocks for riders who already race.",
+    "tags": [
+      "Expert",
+      "VO2 Max"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 110,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 110,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 110,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 110,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 110,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-vo2max-6x3",
+    "name": "VO2max 6x3",
+    "description": "Six three-minute efforts at 118 percent with equal recovery. A sharper version of 5x3, with less rest between efforts.",
+    "tags": [
+      "Expert",
+      "VO2 Max"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-anaerobic-10x1",
+    "name": "Anaerobic 10x1",
+    "description": "Ten one-minute efforts at 130 percent with two minutes recovery. Above this intensity ERG mode starts to fight you, so the session stops here on purpose.",
+    "tags": [
+      "Expert",
+      "Anaerobic"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-sweet-spot-2x20",
+    "name": "Sweet Spot 2x20",
+    "description": "Two twenty-minute blocks at 90 percent. Big, boring, effective: the session that raises threshold without wrecking the rest of your week.",
+    "tags": [
+      "Expert",
+      "Sweet Spot"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-big-gear-4x6",
+    "name": "Big Gear 4x6",
+    "description": "Four six-minute blocks at 100 percent in a big gear, 45 to 55 rpm. Strength work at threshold; expect torque surges rather than smooth resistance.",
+    "tags": [
+      "Expert",
+      "Strength",
+      "Cadence"
+    ],
+    "schemaVersion": 2,
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 45,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 45,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 45,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 45,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-endurance-60",
+    "name": "Endurance 60",
+    "description": "A full hour of aerobic work between 60 and 72 percent. Not every session should be hard, even in an expert library.",
+    "tags": [
+      "Expert",
+      "Endurance"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 68,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 72,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 68,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 60,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-expert-ftp-20min-test",
+    "name": "FTP 20-min Test",
+    "description": "The standard 20-minute test: ride twenty minutes as hard as you can hold, then take 0.95 of the average. The target moves between 95 and 105 percent so you can adjust while riding.",
+    "tags": [
+      "Expert",
+      "Test"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 60,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1200,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT",
+        "powerMinPercentFTP": 95,
+        "powerMaxPercentFTP": 105
+      },
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  }
+]

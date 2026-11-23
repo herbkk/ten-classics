@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "ten-classics",
+  "name": "Ten Classics",
+  "description": "Thirty structured sessions in three levels. Ten beginner rides, ten advanced, ten expert, all under an hour.",
+  "author": "Herbert",
+  "updatedEpoch": 1795462911114,
+  "bundles": [
+    {
+      "id": "beginner",
+      "name": "Beginner",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "beginner.json"
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "advanced.json"
+    },
+    {
+      "id": "expert",
+      "name": "Expert",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "expert.json"
+    }
+  ]
+}

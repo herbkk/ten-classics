@@ -1,0 +1,689 @@
+[
+  {
+    "id": "ten-classics-advanced-recovery-spin",
+    "name": "Recovery Spin",
+    "description": "Thirty minutes of easy spinning between 40 and 50 percent. Ride this the day after a hard session, not instead of one.",
+    "tags": [
+      "Advanced",
+      "Recovery"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 42,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 40,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-endurance-45",
+    "name": "Endurance 45",
+    "description": "Three blocks of aerobic work with a fifteen-minute block at 70 percent in the middle. The steady ride that makes the hard days possible.",
+    "tags": [
+      "Advanced",
+      "Endurance"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-tempo-2x15",
+    "name": "Tempo 2x15",
+    "description": "Two fifteen-minute blocks at 80 percent with five minutes easy between. Sustained pressure without the cost of threshold work.",
+    "tags": [
+      "Advanced",
+      "Tempo"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 80,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 80,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-sweet-spot-3x10",
+    "name": "Sweet Spot 3x10",
+    "description": "Three ten-minute blocks at 90 percent with three minutes recovery. The most efficient way to raise FTP in under an hour.",
+    "tags": [
+      "Advanced",
+      "Sweet Spot"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-threshold-2x15",
+    "name": "Threshold 2x15",
+    "description": "Two fifteen-minute blocks at threshold. The target can be moved between 95 and 102 percent with the plus and minus buttons, so you can find the edge yourself.",
+    "tags": [
+      "Advanced",
+      "Threshold"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 97,
+        "intervalType": "CONSTANT",
+        "powerMinPercentFTP": 95,
+        "powerMaxPercentFTP": 102
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 97,
+        "intervalType": "CONSTANT",
+        "powerMinPercentFTP": 95,
+        "powerMaxPercentFTP": 102
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-over-under-3x9",
+    "name": "Over-Under 3x9",
+    "description": "Three nine-minute blocks alternating two minutes under threshold and one minute over. Trains you to clear lactate while still working.",
+    "tags": [
+      "Advanced",
+      "Threshold"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-vo2max-5x3",
+    "name": "VO2max 5x3",
+    "description": "Five three-minute efforts at 115 percent with equal recovery. The classic short VO2max session, and the shortest route to a higher ceiling.",
+    "tags": [
+      "Advanced",
+      "VO2 Max"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 115,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 115,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 115,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 115,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 115,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-anaerobic-8x1",
+    "name": "Anaerobic 8x1",
+    "description": "Eight one-minute efforts at 125 percent with two minutes recovery. Short enough for ERG mode to keep up, long enough to hurt.",
+    "tags": [
+      "Advanced",
+      "Anaerobic"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 125,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-big-gear-3x8",
+    "name": "Big Gear 3x8",
+    "description": "Three eight-minute blocks at 85 percent in a big gear, 50 to 55 rpm. Expect torque surges rather than smooth resistance on cheaper trainers.",
+    "tags": [
+      "Advanced",
+      "Strength",
+      "Cadence"
+    ],
+    "schemaVersion": 2,
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 50,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 50,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT",
+        "cadenceMinRpm": 50,
+        "cadenceMaxRpm": 55
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "id": "ten-classics-advanced-ramp-test",
+    "name": "Ramp Test",
+    "description": "One minute per step, six percent harder each minute, from 46 percent upwards. Stop when you cannot hold the cadence. FTP is 0.75 times your best full minute.",
+    "tags": [
+      "Advanced",
+      "Test"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 60,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 46,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 52,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 58,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 64,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 70,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 76,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 82,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 94,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 106,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 112,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 118,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 124,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 40,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  }
+]
