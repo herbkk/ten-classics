@@ -33,19 +33,14 @@
   {
     "id": "ten-classics-beginner-easy-spin-30",
     "name": "Easy Spin 30",
-    "description": "A recovery day. Twenty minutes flat at 50% with five minutes either side, no targets to chase.",
+    "description": "A recovery day. Twenty-five minutes flat at 50 percent, then five easy minutes to close. No targets to chase.",
     "tags": [
       "Beginner",
       "Recovery"
     ],
     "segments": [
       {
-        "lengthInSeconds": 300,
-        "powerPercentFTP": 50,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 1200,
+        "lengthInSeconds": 1500,
         "powerPercentFTP": 50,
         "intervalType": "CONSTANT"
       },
@@ -116,29 +111,25 @@
         "lengthInSeconds": 180,
         "powerPercentFTP": 62,
         "intervalType": "CONSTANT",
-        "cadenceMinRpm": 70,
-        "cadenceMaxRpm": 70
+        "cadenceMinRpm": 70
       },
       {
         "lengthInSeconds": 180,
         "powerPercentFTP": 62,
         "intervalType": "CONSTANT",
-        "cadenceMinRpm": 80,
-        "cadenceMaxRpm": 80
+        "cadenceMinRpm": 80
       },
       {
         "lengthInSeconds": 180,
         "powerPercentFTP": 62,
         "intervalType": "CONSTANT",
-        "cadenceMinRpm": 90,
-        "cadenceMaxRpm": 90
+        "cadenceMinRpm": 90
       },
       {
         "lengthInSeconds": 180,
         "powerPercentFTP": 62,
         "intervalType": "CONSTANT",
-        "cadenceMinRpm": 100,
-        "cadenceMaxRpm": 100
+        "cadenceMinRpm": 100
       },
       {
         "lengthInSeconds": 300,
@@ -203,6 +194,16 @@
         "intervalType": "CONSTANT"
       },
       {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
+        "intervalType": "CONSTANT"
+      },
+      {
         "lengthInSeconds": 480,
         "powerPercentFTP": 88,
         "intervalType": "CONSTANT"
@@ -227,7 +228,7 @@
   {
     "id": "ten-classics-beginner-threshold-intro-2x8",
     "name": "Threshold Intro 2x8",
-    "description": "Eight minutes at threshold, twice. The hardest session in this bundle and the first step towards real FTP work.",
+    "description": "Eight minutes at threshold, twice. The hardest structured session in this bundle and the first step towards real FTP work.",
     "tags": [
       "Beginner",
       "Threshold"
@@ -323,6 +324,16 @@
         "intervalType": "CONSTANT"
       },
       {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
+        "intervalType": "CONSTANT"
+      },
+      {
         "lengthInSeconds": 300,
         "powerPercentFTP": 85,
         "intervalType": "CONSTANT",
@@ -363,7 +374,7 @@
   {
     "id": "ten-classics-beginner-first-ramp-test",
     "name": "First Ramp Test",
-    "description": "A gentle ramp test: one minute per step, five percent harder each minute, starting at 40 percent. Stop when you cannot hold the cadence. FTP is 0.75 times your best full minute.",
+    "description": "A gentle ramp test: one minute per step, five percent harder each minute, starting at 55 percent. Stop when you cannot hold the cadence. FTP is 0.75 times the best 60 seconds of recorded power.",
     "tags": [
       "Beginner",
       "Test"
@@ -371,26 +382,6 @@
     "segments": [
       {
         "lengthInSeconds": 300,
-        "powerPercentFTP": 50,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 300,
-        "powerPercentFTP": 60,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 40,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
         "powerPercentFTP": 50,
         "intervalType": "CONSTANT"
       },

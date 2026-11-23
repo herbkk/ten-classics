@@ -122,6 +122,16 @@
         "intervalType": "CONSTANT"
       },
       {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
+        "intervalType": "CONSTANT"
+      },
+      {
         "lengthInSeconds": 600,
         "powerPercentFTP": 90,
         "intervalType": "CONSTANT"
@@ -219,62 +229,7 @@
       },
       {
         "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 105,
+        "powerPercentFTP": 70,
         "intervalType": "CONSTANT"
       },
       {
@@ -313,8 +268,68 @@
         "intervalType": "CONSTANT"
       },
       {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
         "lengthInSeconds": 240,
         "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
         "intervalType": "CONSTANT"
       },
       {
@@ -543,6 +558,16 @@
         "intervalType": "CONSTANT"
       },
       {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
+        "intervalType": "CONSTANT"
+      },
+      {
         "lengthInSeconds": 480,
         "powerPercentFTP": 85,
         "intervalType": "CONSTANT",
@@ -588,7 +613,7 @@
   {
     "id": "ten-classics-advanced-ramp-test",
     "name": "Ramp Test",
-    "description": "One minute per step, six percent harder each minute, from 46 percent upwards. Stop when you cannot hold the cadence. FTP is 0.75 times your best full minute.",
+    "description": "One minute per step, six percent harder each minute, from 55 percent upwards. Stop when you cannot hold the cadence. FTP is 0.75 times the best 60 seconds of recorded power.",
     "tags": [
       "Advanced",
       "Test"
@@ -600,83 +625,68 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 300,
-        "powerPercentFTP": 60,
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 55,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 46,
+        "powerPercentFTP": 61,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 52,
+        "powerPercentFTP": 67,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 58,
+        "powerPercentFTP": 73,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 64,
+        "powerPercentFTP": 79,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 70,
+        "powerPercentFTP": 85,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 76,
+        "powerPercentFTP": 91,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 82,
+        "powerPercentFTP": 97,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 88,
+        "powerPercentFTP": 103,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 94,
+        "powerPercentFTP": 109,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 100,
+        "powerPercentFTP": 115,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 106,
+        "powerPercentFTP": 121,
         "intervalType": "CONSTANT"
       },
       {
         "lengthInSeconds": 60,
-        "powerPercentFTP": 112,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 118,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 124,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
+        "powerPercentFTP": 127,
         "intervalType": "CONSTANT"
       },
       {

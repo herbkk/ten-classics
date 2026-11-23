@@ -104,13 +104,8 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 95,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 108,
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
         "intervalType": "CONSTANT"
       },
       {
@@ -159,8 +154,43 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 240,
-        "powerPercentFTP": 55,
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 95,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 108,
         "intervalType": "CONSTANT"
       },
       {
@@ -173,7 +203,7 @@
   {
     "id": "ten-classics-expert-criss-cross-3x12",
     "name": "Criss-Cross 3x12",
-    "description": "Three twelve-minute blocks swinging between 88 and 100 percent every two minutes. Teaches you to settle back in after a surge without easing off.",
+    "description": "Three twelve-minute blocks alternating two minutes at 88 percent and one at 100, so the effort keeps changing the way it does on a real road. You learn to settle back in after a surge without easing off.",
     "tags": [
       "Expert",
       "Threshold"
@@ -230,43 +260,8 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 88,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 100,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 88,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 100,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 88,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 100,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 88,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 100,
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
         "intervalType": "CONSTANT"
       },
       {
@@ -315,8 +310,43 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 240,
-        "powerPercentFTP": 55,
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 88,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 100,
         "intervalType": "CONSTANT"
       },
       {
@@ -336,7 +366,7 @@
     ],
     "segments": [
       {
-        "lengthInSeconds": 600,
+        "lengthInSeconds": 480,
         "powerPercentFTP": 55,
         "intervalType": "CONSTANT"
       },
@@ -503,122 +533,107 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 85,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 85,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 55,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 60,
-        "powerPercentFTP": 130,
-        "intervalType": "CONSTANT"
-      },
-      {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 45,
-        "intervalType": "CONSTANT"
-      },
-      {
         "lengthInSeconds": 300,
+        "powerPercentFTP": 85,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
         "powerPercentFTP": 45,
         "intervalType": "CONSTANT"
       }
@@ -636,6 +651,16 @@
       {
         "lengthInSeconds": 300,
         "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
         "intervalType": "CONSTANT"
       },
       {
@@ -674,6 +699,16 @@
       {
         "lengthInSeconds": 300,
         "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 75,
         "intervalType": "CONSTANT"
       },
       {
@@ -775,7 +810,7 @@
   {
     "id": "ten-classics-expert-ftp-20min-test",
     "name": "FTP 20-min Test",
-    "description": "The standard 20-minute test: ride twenty minutes as hard as you can hold, then take 0.95 of the average. The target moves between 95 and 105 percent so you can adjust while riding.",
+    "description": "The standard 20-minute test: ride twenty minutes as hard as you can hold, then take 0.95 of the average. The target moves between 90 and 110 percent so a rider whose fitness moved is not capped by last month's number.",
     "tags": [
       "Expert",
       "Test"
@@ -787,8 +822,23 @@
         "intervalType": "CONSTANT"
       },
       {
-        "lengthInSeconds": 120,
-        "powerPercentFTP": 85,
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 50,
         "intervalType": "CONSTANT"
       },
       {
@@ -800,8 +850,8 @@
         "lengthInSeconds": 1200,
         "powerPercentFTP": 100,
         "intervalType": "CONSTANT",
-        "powerMinPercentFTP": 95,
-        "powerMaxPercentFTP": 105
+        "powerMinPercentFTP": 90,
+        "powerMaxPercentFTP": 110
       },
       {
         "lengthInSeconds": 420,
