@@ -1,7 +1,7 @@
 [
   {
     "id": "ten-classics-advanced-recovery-spin",
-    "name": "Recovery Spin",
+    "name": "Advanced · Recovery Spin",
     "description": "Thirty minutes of easy spinning between 40 and 50 percent. Ride this the day after a hard session, not instead of one.",
     "tags": [
       "Advanced",
@@ -37,7 +37,7 @@
   },
   {
     "id": "ten-classics-advanced-endurance-45",
-    "name": "Endurance 45",
+    "name": "Advanced · Endurance 45",
     "description": "Three blocks of aerobic work with a fifteen-minute block at 70 percent in the middle. The steady ride that makes the hard days possible.",
     "tags": [
       "Advanced",
@@ -73,7 +73,7 @@
   },
   {
     "id": "ten-classics-advanced-tempo-2x15",
-    "name": "Tempo 2x15",
+    "name": "Advanced · Tempo 2x15",
     "description": "Two fifteen-minute blocks at 80 percent with five minutes easy between. Sustained pressure without the cost of threshold work.",
     "tags": [
       "Advanced",
@@ -109,7 +109,7 @@
   },
   {
     "id": "ten-classics-advanced-sweet-spot-3x10",
-    "name": "Sweet Spot 3x10",
+    "name": "Advanced · Sweet Spot 3x10",
     "description": "Three ten-minute blocks at 90 percent with three minutes recovery. The most efficient way to raise FTP in under an hour.",
     "tags": [
       "Advanced",
@@ -170,7 +170,7 @@
   },
   {
     "id": "ten-classics-advanced-threshold-2x15",
-    "name": "Threshold 2x15",
+    "name": "Advanced · Threshold 2x15",
     "description": "Two fifteen-minute blocks at threshold. The target can be moved between 95 and 102 percent with the plus and minus buttons, so you can find the edge yourself.",
     "tags": [
       "Advanced",
@@ -215,7 +215,7 @@
   },
   {
     "id": "ten-classics-advanced-over-under-3x9",
-    "name": "Over-Under 3x9",
+    "name": "Advanced · Over-Under 3x9",
     "description": "Three nine-minute blocks alternating two minutes under threshold and one minute over. Trains you to clear lactate while still working.",
     "tags": [
       "Advanced",
@@ -341,7 +341,7 @@
   },
   {
     "id": "ten-classics-advanced-vo2max-5x3",
-    "name": "VO2max 5x3",
+    "name": "Advanced · VO2max 5x3",
     "description": "Five three-minute efforts at 115 percent with equal recovery. The classic short VO2max session, and the shortest route to a higher ceiling.",
     "tags": [
       "Advanced",
@@ -422,7 +422,7 @@
   },
   {
     "id": "ten-classics-advanced-anaerobic-8x1",
-    "name": "Anaerobic 8x1",
+    "name": "Advanced · Anaerobic 8x1",
     "description": "Eight one-minute efforts at 125 percent with two minutes recovery. Short enough for ERG mode to keep up, long enough to hurt.",
     "tags": [
       "Advanced",
@@ -543,7 +543,7 @@
   },
   {
     "id": "ten-classics-advanced-big-gear-3x8",
-    "name": "Big Gear 3x8",
+    "name": "Advanced · Big Gear 3x8",
     "description": "Three eight-minute blocks at 85 percent in a big gear, 50 to 55 rpm. Expect torque surges rather than smooth resistance on cheaper trainers.",
     "tags": [
       "Advanced",
@@ -612,7 +612,7 @@
   },
   {
     "id": "ten-classics-advanced-ramp-test",
-    "name": "Ramp Test",
+    "name": "Advanced · Ramp Test",
     "description": "One minute per step, six percent harder each minute, from 55 percent upwards. Stop when you cannot hold the cadence. FTP is 0.75 times the best 60 seconds of recorded power.",
     "tags": [
       "Advanced",
