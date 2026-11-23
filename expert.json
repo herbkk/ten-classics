@@ -1,7 +1,7 @@
 [
   {
     "id": "ten-classics-expert-threshold-2x20",
-    "name": "Expert · Threshold 2x20",
+    "name": "Expert - Threshold 2x20",
     "description": "The cornerstone session: two twenty-minute blocks at threshold, four minutes easy between. The target moves between 95 and 102 percent so you can ride it, not fight it.",
     "tags": [
       "Expert",
@@ -46,7 +46,7 @@
   },
   {
     "id": "ten-classics-expert-over-under-3x12",
-    "name": "Expert · Over-Under 3x12",
+    "name": "Expert - Over-Under 3x12",
     "description": "Three twelve-minute blocks of two minutes at 95 percent and one at 108. Sustained lactate work for riders preparing for hilly races.",
     "tags": [
       "Expert",
@@ -202,7 +202,7 @@
   },
   {
     "id": "ten-classics-expert-criss-cross-3x12",
-    "name": "Expert · Criss-Cross 3x12",
+    "name": "Expert - Criss-Cross 3x12",
     "description": "Three twelve-minute blocks alternating two minutes at 88 percent and one at 100, so the effort keeps changing the way it does on a real road. You learn to settle back in after a surge without easing off.",
     "tags": [
       "Expert",
@@ -358,7 +358,7 @@
   },
   {
     "id": "ten-classics-expert-vo2max-5x5",
-    "name": "Expert · VO2max 5x5",
+    "name": "Expert - VO2max 5x5",
     "description": "Five five-minute efforts at 110 percent with four minutes recovery. Long VO2max blocks for riders who already race.",
     "tags": [
       "Expert",
@@ -434,7 +434,7 @@
   },
   {
     "id": "ten-classics-expert-vo2max-6x3",
-    "name": "Expert · VO2max 6x3",
+    "name": "Expert - VO2max 6x3",
     "description": "Six three-minute efforts at 118 percent with equal recovery. A sharper version of 5x3, with less rest between efforts.",
     "tags": [
       "Expert",
@@ -520,7 +520,7 @@
   },
   {
     "id": "ten-classics-expert-anaerobic-10x1",
-    "name": "Expert · Anaerobic 10x1",
+    "name": "Expert - Anaerobic 10x1",
     "description": "Ten one-minute efforts at 130 percent with two minutes recovery. Above this intensity ERG mode starts to fight you, so the session stops here on purpose.",
     "tags": [
       "Expert",
@@ -641,7 +641,7 @@
   },
   {
     "id": "ten-classics-expert-sweet-spot-2x20",
-    "name": "Expert · Sweet Spot 2x20",
+    "name": "Expert - Sweet Spot 2x20",
     "description": "Two twenty-minute blocks at 90 percent. Big, boring, effective: the session that raises threshold without wrecking the rest of your week.",
     "tags": [
       "Expert",
@@ -687,7 +687,7 @@
   },
   {
     "id": "ten-classics-expert-big-gear-4x6",
-    "name": "Expert · Big Gear 4x6",
+    "name": "Expert - Big Gear 4x6",
     "description": "Four six-minute blocks at 100 percent in a big gear, 45 to 55 rpm. Strength work at threshold; expect torque surges rather than smooth resistance.",
     "tags": [
       "Expert",
@@ -768,7 +768,7 @@
   },
   {
     "id": "ten-classics-expert-endurance-60",
-    "name": "Expert · Endurance 60",
+    "name": "Expert - Endurance 60",
     "description": "A full hour of aerobic work between 60 and 72 percent. Not every session should be hard, even in an expert library.",
     "tags": [
       "Expert",
@@ -809,7 +809,7 @@
   },
   {
     "id": "ten-classics-expert-ftp-20min-test",
-    "name": "Expert · FTP 20-min Test",
+    "name": "Expert - FTP 20-min Test",
     "description": "The standard 20-minute test: ride twenty minutes as hard as you can hold, then take 0.95 of the average. The target moves between 90 and 110 percent so a rider whose fitness moved is not capped by last month's number.",
     "tags": [
       "Expert",

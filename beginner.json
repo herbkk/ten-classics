@@ -1,7 +1,7 @@
 [
   {
     "id": "ten-classics-beginner-first-spin",
-    "name": "Beginner · First Spin",
+    "name": "Beginner - First Spin",
     "description": "Your first twenty minutes on the trainer. Four easy blocks that only ask you to keep the pedals turning while the trainer holds the watts.",
     "tags": [
       "Beginner",
@@ -32,7 +32,7 @@
   },
   {
     "id": "ten-classics-beginner-easy-spin-30",
-    "name": "Beginner · Easy Spin 30",
+    "name": "Beginner - Easy Spin 30",
     "description": "A recovery day. Twenty-five minutes flat at 50 percent, then five easy minutes to close. No targets to chase.",
     "tags": [
       "Beginner",
@@ -53,7 +53,7 @@
   },
   {
     "id": "ten-classics-beginner-endurance-40",
-    "name": "Beginner · Endurance 40",
+    "name": "Beginner - Endurance 40",
     "description": "Steady aerobic work with a small lift in the middle. The base session to repeat weekly.",
     "tags": [
       "Beginner",
@@ -89,7 +89,7 @@
   },
   {
     "id": "ten-classics-beginner-cadence-builder",
-    "name": "Beginner · Cadence Builder",
+    "name": "Beginner - Cadence Builder",
     "description": "Four blocks at the same power, each at a higher cadence: 70, 80, 90, 100 rpm. Teaches you that watts and leg speed are separate things.",
     "tags": [
       "Beginner",
@@ -145,7 +145,7 @@
   },
   {
     "id": "ten-classics-beginner-tempo-intro-2x8",
-    "name": "Beginner · Tempo Intro 2x8",
+    "name": "Beginner - Tempo Intro 2x8",
     "description": "Two eight-minute blocks at tempo with five minutes easy between. Your first taste of holding a target for more than a few minutes.",
     "tags": [
       "Beginner",
@@ -181,7 +181,7 @@
   },
   {
     "id": "ten-classics-beginner-sweet-spot-intro-2x8",
-    "name": "Beginner · Sweet Spot Intro 2x8",
+    "name": "Beginner - Sweet Spot Intro 2x8",
     "description": "Two eight-minute blocks just under threshold. Hard enough to build fitness, short enough to finish with good form.",
     "tags": [
       "Beginner",
@@ -227,7 +227,7 @@
   },
   {
     "id": "ten-classics-beginner-threshold-intro-2x8",
-    "name": "Beginner · Threshold Intro 2x8",
+    "name": "Beginner - Threshold Intro 2x8",
     "description": "Eight minutes at threshold, twice. The hardest structured session in this bundle and the first step towards real FTP work.",
     "tags": [
       "Beginner",
@@ -268,7 +268,7 @@
   },
   {
     "id": "ten-classics-beginner-progressive-endurance",
-    "name": "Beginner · Progressive Endurance",
+    "name": "Beginner - Progressive Endurance",
     "description": "Forty-five minutes that climb in small steps, 62 to 75 percent. A good session for a day when you want to ride, not to suffer.",
     "tags": [
       "Beginner",
@@ -309,7 +309,7 @@
   },
   {
     "id": "ten-classics-beginner-hill-simulation-3x5",
-    "name": "Beginner · Hill Simulation 3x5",
+    "name": "Beginner - Hill Simulation 3x5",
     "description": "Three five-minute blocks at 85 percent in a low gear, 65 to 70 rpm. Feels like a climb without needing one.",
     "tags": [
       "Beginner",
@@ -373,7 +373,7 @@
   },
   {
     "id": "ten-classics-beginner-first-ramp-test",
-    "name": "Beginner · First Ramp Test",
+    "name": "Beginner - First Ramp Test",
     "description": "A gentle ramp test: one minute per step, five percent harder each minute, starting at 55 percent. Stop when you cannot hold the cadence. FTP is 0.75 times the best 60 seconds of recorded power.",
     "tags": [
       "Beginner",
